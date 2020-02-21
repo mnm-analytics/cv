@@ -33,20 +33,56 @@
 
 ### 言語
 
-`Python` `Julia` `Java` `Scala` `JavaScript` `Ruby` `PHP` `R`
- `C` `Fortran`
+`Python` `R` `Julia` `Java` `Scala` `JavaScript` `Ruby` `PHP` `C` `Fortran`
+
+### ライブラリー
+
+`numpy` `pandas` `matplotlib` `seaborn` `sklearn` `scipy` `xgboost` `lightgbm` `tensorflow` `keras` `pytorch`
 
 ### フレームワーク
 
+`Struts` `Flask` `Django` `jQuery` `.NET Framework`
+
 ### RDB/NoSQL
+
+`MySQL` `PostgreSQL` `Oracle` `SQL Server` `HiveQL`
 
 ### クラウド
 
+##### AWS
+
+`S3` `API Gateway` `Lambda` `EC2` `Cloud9` `IAM` `Elasticsearch Service` `RDS(MySQL|PostgreSQL)` `Redshift` `EMR(Spark)` `SageMaker` `Amazon Personalize` `Amazon Translate`
+
+##### GCP
+
+`GCS` `Cloud Functions` `GCE` `IAM` `Cloud SQL` `BigQuery` `Dataflow(Apache Beam)` `ML Engine`
+
 ### SaaS/PaaS
+
+`GitHub` `TreasureData`
 
 ### その他
 
+`Docker` `Apache` `Tomcat` `SAS` `Mecab` `Cabocha` `TreeTagger`
+
 ## ❏ バリューを発揮しやすい業務
+- 研修講師（AI概要、技術）
+- 各種検定（頻度論/ベイジアン）
+- Web解析
+- 教師あり学習
+- 教師なし学習全般
+- 時系列モデリング
+- 画像認識
+- 音声認識
+- 異常検知
+- レコメンド
+- 自然言語解析
+- トピックモデル
+- 因果推論
+- フェルミ推定
+- カスタマージャーニーマップ作成
+- KGI-KPIツリー作成・モニタリング
+- ダッシュボード作成
 
 ## ❏ 主な業務経歴
 
@@ -60,4 +96,3 @@ xxx
 
 【発揮したバリュー】
 xxx
-
