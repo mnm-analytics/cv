@@ -8,6 +8,7 @@
 | 名前           | 西村 圭介                                |
 | 居住地         | 東京都 葛飾区                            |
 |mail|ksksk0709@gmail.com|
+| 統計学力         | 統計検定 準1級                              |
 | 英語力         | TOEIC 810点                              |
 | 連載           | https://www.itmedia.co.jp/author/220138/ |
 
