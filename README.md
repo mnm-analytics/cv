@@ -10,6 +10,8 @@
 |mail|ksksk0709@gmail.com|
 | 統計学力         | 統計検定 準1級                              |
 | 英語力         | TOEIC 810点                              |
+| IQ         | 148 (sd 15) Percentile 0.9993      |
+| 所属         | [高IQ団体 PercentOne](https://www.facebook.com/iqover135/)      |
 | 連載           | https://www.itmedia.co.jp/author/220138/ |
 
 <!-- | ポートフォリオ | xxx| -->
