@@ -55,11 +55,11 @@
 
 ##### AWS
 
-`S3` `API Gateway` `Lambda` `EC2` `Cloud9` `IAM` `Elasticsearch Service` `RDS(MySQL|PostgreSQL)` `Redshift` `EMR(Spark)` `SageMaker` `Amazon Personalize` `Amazon Translate`
+`S3` `API Gateway` `Lambda` `EC2` `Cloud9` `Elasticsearch Service` `RDS(MySQL|PostgreSQL)` `Redshift` `EMR(Spark)` `Amazon Translate`
 
 ##### GCP
 
-`BigQuery` `GCS` `Cloud Functions` `GCE` `IAM` `Cloud SQL`  `Dataflow(Apache Beam)` `ML Engine`
+`BigQuery` `GCS` `Cloud Functions` `GCE` `Cloud SQL` `ML Engine`
 
 ### SaaS/PaaS
 
@@ -72,14 +72,10 @@
 ## ｜ バリューを発揮しやすい案件
 - レコメンド
 - Web解析
-- 教師あり/教師なし学習全般
 - 時系列モデリング
-- 画像認識
 - 異常検知
-- 自然言語解析/トピックモデル
 - 因果推論
-- カスタマージャーニーマップ作成
-- KGI-KPIツリー作成・モニタリング/ダッシュボード作成
+- KGI-KPIツリー設計・ダッシュボード作成
 - 研修講師（AI概要./python/統計学/機械学習）
 
 ## ｜ 主な業務経歴(時期降順)
